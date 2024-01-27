@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static System.DateTime;
 
 namespace FamilyOrganizer
 {
     internal class Person
     {
+        private static int _count = 0;
+        public readonly int ID = _count++;
         private string _name;
         private DateTime _birthDate;
 

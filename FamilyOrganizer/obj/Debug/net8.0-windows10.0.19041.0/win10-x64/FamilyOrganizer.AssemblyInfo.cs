@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FamilyOrganizer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+cbca061af83c4158f5b58273beb77e13b0485699")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+af4fb654dcdca7481f3b1847f18ff5dac6e54079")]
 [assembly: System.Reflection.AssemblyProductAttribute("FamilyOrganizer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FamilyOrganizer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
